@@ -3,7 +3,7 @@
  * Platform: LeetCode
  * Difficulty: Easy
  * Logic: Map the frequencies of each character. For the first index that has frequency = 1, return index, else return -1.
- * Time Complexity: O(n)
+ * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
 
