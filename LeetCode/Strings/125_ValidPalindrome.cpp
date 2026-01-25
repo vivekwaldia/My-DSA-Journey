@@ -3,7 +3,7 @@
  * Platform: LeetCode
  * Difficulty: Easy
  * Logic: Use two pointers to iterate the string, skip non-alphanumeric characters, check for equality by converting to lowercase, return true/false respectively.
- * Time Complexity: O(n)
+ * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
 
