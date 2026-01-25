@@ -3,7 +3,7 @@
  * Platform: LeetCode
  * Difficulty: Easy
  * Logic: Map the frequencies by incrementing/decrementing the frequency array for each string respectively. Return false if all frequencies don't get cancelled out, otherwise return true.
- * Time Complexity: O(n)
+ * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
 
