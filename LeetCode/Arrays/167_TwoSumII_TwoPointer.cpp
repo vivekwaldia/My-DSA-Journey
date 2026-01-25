@@ -3,7 +3,7 @@
  * Platform: LeetCode
  * Difficulty: Medium
  * Logic: Iterate two pointers, i and j, from front and back respectively. Perform increment/decrement operations on them based on the conditional checks between sum and target. Return the 1-indexed pointers. 
- * Time Complexity: O(n)
+ * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
 
