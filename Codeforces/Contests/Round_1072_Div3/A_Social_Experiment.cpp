@@ -2,7 +2,7 @@
  * Problem: A. Social Experiment
  * Contest: Codeforces Round 1072 (Div. 3)
  * Platform: Codeforces
- * Rating: 800
+ * Rating: N/A
  * Tags: Math
  * Logic: People can be organized to either even groups or odd groups. No person is left out in case of even pairing, 1 person is left out in case of odd pairing.
  * Time Complexity: O(1)
