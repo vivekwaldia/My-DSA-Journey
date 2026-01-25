@@ -5,7 +5,7 @@
  * Rating: 800
  * Tags: Brute Force, Number Theory
  * Logic: Calculate the current prize based on the landing index and update the maximum prize on the go.
- * Time Complexity: O(l)
+ * Time Complexity: O(L); L = Number of sections in the prize wheel
  * Space Complexity: O(1)
  */
 
