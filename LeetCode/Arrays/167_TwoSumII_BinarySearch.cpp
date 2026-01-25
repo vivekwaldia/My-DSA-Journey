@@ -3,7 +3,7 @@
  * Platform: LeetCode
  * Difficulty: Medium
  * Logic: Iterate through the array, assume the first number, calculate the missing number, find the missing number using binary search and return the 1-indexed pairs. 
- * Time Complexity: O(n log n)
+ * Time Complexity: O(N * log N)
  * Space Complexity: O(1)
  */
 
