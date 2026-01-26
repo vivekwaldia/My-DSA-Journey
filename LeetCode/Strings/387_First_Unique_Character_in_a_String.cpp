@@ -2,7 +2,8 @@
  * Problem: 387. First Unique Character in a String
  * Platform: LeetCode
  * Difficulty: Easy
- * Logic: Map the frequencies of each character. For the first index that has frequency = 1, return index, else return -1.
+ * Logic: Map the character frequencies to count occurrences.
+ - Traverse the string to find the first index with a frequency of 1 and return it; otherwise, return -1.
  * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
