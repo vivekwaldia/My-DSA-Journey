@@ -2,7 +2,8 @@
  * Problem: 167. Two Sum II - Input Array is Sorted
  * Platform: LeetCode
  * Difficulty: Medium
- * Logic: Iterate through the array, assume the first number, calculate the missing number, find the missing number using binary search and return the 1-indexed pairs. 
+ * Logic: Iterate through the array to select the first number and calculate the required missing value.
+ - Perform a binary search to locate the value and return the corresponding 1-indexed pairs.
  * Time Complexity: O(N * log N)
  * Space Complexity: O(1)
  */
