@@ -3,7 +3,7 @@
  * Contest: Starters 221
  * Platform: CodeChef
  * Rating: 110
- * Logic: Check if x >= y.
+ * Logic: Evaluate the condition to check if X is greater than or equal to Y.
  * Time Complexity: O(1)
  * Space Complexity: O(1)
  */
