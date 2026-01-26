@@ -127,7 +127,7 @@ This is a personal learning repository documenting my growth, but feedback is al
 
 ## 📜 License
 
-MIT License - see LICENSE file for details.
+MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -135,6 +135,6 @@ MIT License - see LICENSE file for details.
 
 **Star ⭐ this repo to follow along on my journey!**
 
-*Every problem solved is a step forward* 🚶
+*Every problem solved is a step forward* 📈
 
 </div>
