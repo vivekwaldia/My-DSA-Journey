@@ -3,7 +3,8 @@
  * Contest: Starters 218
  * Platform: CodeChef
  * Rating: 584
- * Logic: Multiply each balloon with its current cost and cumulatively add to totalCost variable.
+ * Logic: Calculate the total cost by multiplying each balloon count by its price.
+ - Accumulate the results into a running total.
  * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
