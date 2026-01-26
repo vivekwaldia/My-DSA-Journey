@@ -1,7 +1,7 @@
 /*
  * Problem: Exponentiation
  * Platform: CSES
- * Logic: Use modular exponentiation for fast calculation.
+ * Logic: Compute the result efficiently using the modular exponentiation algorithm.
  * Time Complexity: O(log N)
  * Space Complexity: O(log N)
  */
