@@ -3,7 +3,8 @@
  * Contest: AtCoder Beginner Contest 442
  * Platform: AtCoder
  * Points: 200
- * Logic: Iterate over the music array and use simple if-else conditions to simulate the music player.
+ * Logic: Simulate the music player state by iterating through the sequence of operations.
+ - Use conditional logic to adjust volume levels and toggle the power status.
  * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
