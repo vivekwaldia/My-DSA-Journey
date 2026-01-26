@@ -37,22 +37,22 @@ class Solution {
         
         memo[r][c] = 0;
         
-        //up
+        // up
         temp.push_back('U');
         helper(maze, temp, sol, memo, n, m, r-1, c);
         temp.pop_back();
         
-        //down
+        // down
         temp.push_back('D');
         helper(maze, temp, sol, memo, n, m, r+1, c);
         temp.pop_back();
         
-        //left
+        // left
         temp.push_back('L');
         helper(maze, temp, sol, memo, n, m, r, c-1);
         temp.pop_back();
         
-        //right
+        // right
         temp.push_back('R');
         helper(maze, temp, sol, memo, n, m, r, c+1);
         temp.pop_back();
