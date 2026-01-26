@@ -1,5 +1,5 @@
 /*
- * Problem: C. The Smallest String Concatenation
+ * Problem: C - The Smallest String Concatenation
  * Contest: Educational Codeforces Round 9
  * Platform: Codeforces
  * Rating: 1700
