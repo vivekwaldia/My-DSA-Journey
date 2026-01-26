@@ -3,7 +3,8 @@
  * Contest: Starters 218
  * Platform: CodeChef
  * Rating: 1444
- * Logic: Elements can only shift to left positions, calculate the minimum cost from C and multiply by current element of A and sum up to the total cost.
+ * Logic: Identify the minimum valid cost from C based on the left-shift constraint.
+ - Multiply this minimum by the current element of A and accumulate the total cost.
  * Time Complexity: O(N)
  * Space Complexity: O(N)
  */
