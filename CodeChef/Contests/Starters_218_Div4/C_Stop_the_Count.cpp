@@ -3,7 +3,8 @@
  * Contest: Starters 218
  * Platform: CodeChef
  * Rating: 893
- * Logic: Calculate votes both in favour and not in favour of Chef. Check in how many possible ways Chef can win at a given time.
+ * Logic: Count the votes for and against Chef to determine the current tally.
+ - Calculate the number of possible winning scenarios based on the remaining votes.
  * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
