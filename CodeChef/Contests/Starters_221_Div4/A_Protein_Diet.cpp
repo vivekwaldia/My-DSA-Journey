@@ -2,7 +2,7 @@
  * Problem: LMP1 - Protein Diet
  * Contest: Starters 221
  * Platform: CodeChef
- * Rating: N/A
+ * Rating: 110
  * Logic: Check if x >= y.
  * Time Complexity: O(1)
  * Space Complexity: O(1)
