@@ -3,7 +3,8 @@
  * Contest: AtCoder Beginner Contest 442
  * Platform: AtCoder
  * Points: 300
- * Logic: Map the count of conflicts each researcher has, iterate over the researchers, calculate remaining researchers, use nC3 formula.
+ * Logic: Map the conflict count for each researcher to determine the number of valid reviewers.
+ - Iterate through the researchers and calculate valid combinations using the nC3 formula.
  * Time Complexity: O(N + M)
  * Space Complexity: O(N)
  */
