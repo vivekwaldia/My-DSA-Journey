@@ -1,7 +1,7 @@
 /*
  * Problem: Bit Strings
  * Platform: CSES
- * Logic: A number n can have maximum 2^n bit strings.
+ * Logic: Recognize that a sequence of length N corresponds to 2^N distinct bit strings.
  * Time Complexity: O(log N)
  * Space Complexity: O(log N)
  */
