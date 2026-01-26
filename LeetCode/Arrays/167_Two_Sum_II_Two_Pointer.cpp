@@ -2,7 +2,9 @@
  * Problem: 167. Two Sum II - Input Array is Sorted
  * Platform: LeetCode
  * Difficulty: Medium
- * Logic: Iterate two pointers, i and j, from front and back respectively. Perform increment/decrement operations on them based on the conditional checks between sum and target. Return the 1-indexed pointers. 
+ * Logic: Initialize two pointers at the start and end of the array.
+ - Adjust the pointers based on the comparison between the current sum and the target.
+ - Return the 1-based indices of the matching pair.
  * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
