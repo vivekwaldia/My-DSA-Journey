@@ -1,5 +1,5 @@
 /*
- * Problem: A. Carnival Wheel
+ * Problem: A - Carnival Wheel
  * Contest: Codeforces Global Round 31 (Div. 1 + Div. 2)
  * Platform: Codeforces
  * Rating: 800
