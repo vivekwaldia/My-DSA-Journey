@@ -4,7 +4,8 @@
  * Platform: Codeforces
  * Rating: N/A
  * Tags: Math
- * Logic: Calculate the remaining sand based on flipping time and current index. Find out the remaining time by subtracting remSand with currTime.
+ * Logic: Calculate the remaining sand quantity based on the flip time and current index.
+ - Determine the final remaining time by subtracting the current time from the calculated sand level.
  * Time Complexity: O(1)
  * Space Complexity: O(1)
  */
