@@ -3,7 +3,8 @@
  * Contest: AtCoder Beginner Contest 438
  * Platform: AtCoder
  * Points: 200
- * Logic: Check every possible conversion using brute force and keep track of the minimum one.
+ * Logic: Brute force every possible alignment of the substring within the main string.
+ - Calculate the conversion cost for each position and track the minimum operations.
  * Time Complexity: O(N^2)
  * Space Complexity: O(1)
  */
