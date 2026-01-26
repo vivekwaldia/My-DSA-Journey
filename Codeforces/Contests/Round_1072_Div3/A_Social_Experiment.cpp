@@ -4,7 +4,8 @@
  * Platform: Codeforces
  * Rating: N/A
  * Tags: Math
- * Logic: People can be organized to either even groups or odd groups. No person is left out in case of even pairing, 1 person is left out in case of odd pairing.
+ * Logic: Determine the number of unassigned people based on the parity of the group.
+ - Even grouping leaves no one out, while odd grouping leaves one person remaining.
  * Time Complexity: O(1)
  * Space Complexity: O(1)
  */
