@@ -4,7 +4,8 @@
  * Platform: Codeforces
  * Rating: 1700
  * Tags: Sorting, Strings
- * Logic: Use a custom comparator with sort function for the lexicographically smallest string.
+ * Logic: Implement a custom comparator with the sort function to determine the optimal order.
+ - Construct the lexicographically smallest string based on the sorted sequence.
  * Time Complexity: O(N * log N * L); L = Maximum length of a string
  * Space Complexity: O(N * L)
  */
