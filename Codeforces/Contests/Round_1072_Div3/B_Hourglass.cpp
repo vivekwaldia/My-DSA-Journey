@@ -1,5 +1,5 @@
 /*
- * Problem: B. Hourglass
+ * Problem: B - Hourglass
  * Contest: Codeforces Round 1072 (Div. 3)
  * Platform: Codeforces
  * Rating: N/A
