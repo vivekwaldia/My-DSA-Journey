@@ -1,22 +1,19 @@
-```markdown
-# 🚀 My DSA Journey
+# My DSA Journey
 
-![Language](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+<div align="center">
 
-<p align="center">
-  <strong>Personal repository tracking my competitive programming and DSA solutions.</strong><br>
-  1st Year CSE Student<br>
-  LeetCode • Codeforces • CodeChef • AtCoder
-</p>
+Personal repository tracking my competitive programming and DSA solutions.
 
----
+**1st Year CSE Student**
+
+[LeetCode](https://leetcode.com) • [Codeforces](https://codeforces.com) • [CodeChef](https://codechef.com) • [AtCoder](https://atcoder.jp)
+
+</div>
 
 ## 📁 Repository Structure
 
 Solutions are organized by Platform, with sub-organization varying by platform:
-
-```text
+```
 My-DSA-Journey/
 ├── AtCoder/
 │   └── Contests/
@@ -42,27 +39,17 @@ My-DSA-Journey/
 └── LeetCode/
     └── [Topic]/
         └── XXX_Problem_Name.cpp
-
 ```
 
 ## 📝 File Naming Convention
 
-| Category | Format | Example |
-| --- | --- | --- |
-| **Standard** | `Problem_Name.cpp` | `Two_Sum_II.cpp` |
-| **Multiple Approaches** | `Problem_Name_ApproachX.cpp` | `Two_Sum_Approach2.cpp` |
-| **Contest Problems** | `Problem_X.cpp` | `Problem_A.cpp` |
+- **Standard format:** `Problem_Name.cpp` (e.g., `Two_Sum_II.cpp`)
+- **Multiple approaches:** `Problem_Name_Approach2.cpp`
+- **Contest problems:** `Problem_A.cpp`, `Problem_B.cpp`, etc.
 
 ## 💻 Solution Standards
 
-**Tech Stack**
-
-* **Language:** C++17
-* **Compiler:** g++
-* **Editor:** Visual Studio Code
-
 Every solution includes a detailed comment block at the top:
-
 ```cpp
 /*
 Problem: [Problem Name]
@@ -81,27 +68,28 @@ Space: O(1)
 
 Approach: [Brute Force/Optimal/Alternative]
 */
-
 ```
+
+**Tech Stack:**
+- Language: C++17
+- Compiler: g++
+- Editor: Visual Studio Code
 
 ## 🛠️ How to Run Solutions
 
-### 1. Prerequisites
-
+### Prerequisites
 ```bash
 # Install g++ compiler (if not already installed)
 sudo apt-get install g++
 
 # Verify installation
 g++ --version
-
 ```
 
-### 2. Compile and Execute
-
+### Compile and Execute
 ```bash
 # Clone the repository
-git clone [https://github.com/vivekwaldia/My-DSA-Journey.git](https://github.com/vivekwaldia/My-DSA-Journey.git)
+git clone https://github.com/vivekwaldia/My-DSA-Journey.git
 cd My-DSA-Journey
 
 # Navigate to any solution
@@ -112,33 +100,30 @@ g++ -std=c++17 -o solution Two_Sum_II.cpp
 
 # Run
 ./solution
-
 ```
 
-> **Note:** Most solutions include test cases in comments or within the code. Modify the `main()` function to test with your own inputs.
+Most solutions include test cases in comments or within the code. Modify the `main()` function to test with your own inputs.
 
 ## 🎓 Practice Platforms
 
-| Platform | Focus Area |
-| --- | --- |
-| **LeetCode** | Daily challenges and topic-wise practice |
-| **Codeforces** | Rated contests and problem archive |
-| **CodeChef** | Contests and learning modules |
-| **AtCoder** | High-quality contest problems |
-| **CSES** | Comprehensive problem set |
-| **GeeksForGeeks** | Additional practice problems |
+- [**LeetCode**](https://leetcode.com) - Daily challenges and topic-wise practice
+- [**Codeforces**](https://codeforces.com) - Rated contests and problem archive
+- [**CodeChef**](https://codechef.com) - Contests and learning modules
+- [**AtCoder**](https://atcoder.jp) - High-quality contest problems
+- [**CSES**](https://cses.fi/problemset/) - Comprehensive problem set
+- [**GeeksForGeeks**](https://geeksforgeeks.org) - Additional practice problems
 
 ## 🤝 Contributing
 
 This is a personal learning repository, but feedback is always welcome!
 
-* Found an issue with a solution? [Open an issue](https://www.google.com/search?q=https://github.com/vivekwaldia/My-DSA-Journey/issues)
-* Have a better approach? [Start a discussion](https://www.google.com/search?q=https://github.com/vivekwaldia/My-DSA-Journey/discussions)
-* Want to discuss a problem? Feel free to reach out.
+- **Found an issue with a solution?** Open an issue
+- **Have a better approach?** Start a discussion
+- **Want to discuss a problem?** Feel free to reach out
 
 ## 📜 License
 
-MIT License - see [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+MIT License - see LICENSE file for details.
 
 ---
 
@@ -147,7 +132,3 @@ MIT License - see [LICENSE](https://www.google.com/search?q=LICENSE) file for de
 **Star ⭐ this repo if you'd like to follow along!**
 
 </div>
-
-```
-
-```
