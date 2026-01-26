@@ -10,7 +10,7 @@
  - Swapping the global maximum with the first element (index 0) ensures that 
  - every prefix maximum from i=0 to n-1 is the global maximum.
  - The maximum sum is therefore (total elements * global maximum).
- * Time Complexity: O(N log N)
+ * Time Complexity: O(N * log N)
  * Space Complexity: O(N)
  */
 
