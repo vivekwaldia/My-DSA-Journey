@@ -1,7 +1,8 @@
 /*
  * Problem: Exponentiation II
  * Platform: CSES
- * Logic: Use Fermat's Little Theorem which states that exponents repeat in cycles of MOD-1.
+ * Logic: Apply Fermat's Little Theorem to handle modular exponentiation cycles.
+ - Recognize that powers repeat with a period of MOD-1.
  * Time Complexity: O(log N)
  * Space Complexity: O(log N)
  */
