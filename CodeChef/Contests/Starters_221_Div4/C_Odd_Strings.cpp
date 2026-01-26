@@ -3,7 +3,7 @@
  * Contest: Starters 221
  * Platform: CodeChef
  * Rating: 1074
- * Logic: No three equal characters can be arranged such that their indices differ by only odd amounts.
+ * Logic: Verify that no three identical characters are arranged such that their indices differ by only odd amounts.
  * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
