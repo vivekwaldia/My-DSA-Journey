@@ -4,7 +4,8 @@
  * Platform: Codeforces
  * Rating: 800
  * Tags: Greedy, Strings
- * Logic: Use a deque to check both the prefix and suffix concatenation cases for the smallest lexicographical order and perform the push operations accordingly.
+ * Logic: Use a deque to construct the sequence in lexicographically smallest order.
+ - Compare prefix and suffix concatenations to determine the optimal push direction.
  * Time Complexity: O(Total Length of Strings)
  * Space Complexity: O(Total Length of Strings)
  */
