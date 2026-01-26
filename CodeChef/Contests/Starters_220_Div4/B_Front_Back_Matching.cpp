@@ -3,7 +3,8 @@
  * Contest: Starters 220
  * Platform: CodeChef
  * Rating: 632
- * Logic: Map the frequencies and check if any element occurs more than once.
+ * Logic: Map the frequencies to count the occurrences of each element.
+ - Check if any element appears more than once.
  * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
