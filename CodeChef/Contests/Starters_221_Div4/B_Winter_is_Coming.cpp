@@ -3,7 +3,8 @@
  * Contest: Starters 221
  * Platform: CodeChef
  * Rating: 723
- * Logic: Use a boolean variable to track current jacket wear status. Remember to remove the jacket if temperature > b.
+ * Logic: Track the current jacket status using a boolean variable.
+ - Remove the jacket if the temperature exceeds the threshold B.
  * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
