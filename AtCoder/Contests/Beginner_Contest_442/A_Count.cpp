@@ -3,7 +3,7 @@
  * Contest: AtCoder Beginner Contest 442
  * Platform: AtCoder
  * Points: 100
- * Logic: Iterate over the string to check for lower-case i and j(dots).
+ * Logic: Iterate through the string and count the occurrences of the dotted letters 'i' and 'j'.
  * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
