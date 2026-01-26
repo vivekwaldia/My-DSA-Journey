@@ -2,7 +2,8 @@
  * Problem: 242. Valid Anagram
  * Platform: LeetCode
  * Difficulty: Easy
- * Logic: Map the frequencies by incrementing/decrementing the frequency array for each string respectively. Return false if all frequencies don't get cancelled out, otherwise return true.
+ * Logic: Update the frequency array by incrementing for one string and decrementing for the other.
+ - Return false if the frequencies do not fully cancel out; otherwise, return true.
  * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
