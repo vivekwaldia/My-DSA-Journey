@@ -3,7 +3,9 @@
  * Contest: AtCoder Beginner Contest 442
  * Platform: AtCoder
  * Points: 400
- * Logic: Use fenwick tree, add the indices and values to it, update it while swapping values, get the sum of the indices using sum();
+ * Logic: Utilize a Fenwick Tree to maintain prefix sums and handle dynamic updates.
+ - Update the tree during swaps by adding the value difference to the respective indices.
+ - Calculate the range sums efficiently using the standard sum query.
  * Time Complexity: O((N + Q) * log N); Q = Number of queries
  * Space Complexity: O(N)
  */
