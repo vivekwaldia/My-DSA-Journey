@@ -2,7 +2,8 @@
  * Problem: 125. Valid Palindrome
  * Platform: LeetCode
  * Difficulty: Easy
- * Logic: Use two pointers to iterate the string, skip non-alphanumeric characters, check for equality by converting to lowercase, return true/false respectively.
+ * Logic: Utilize two pointers to traverse the string, skipping non-alphanumeric characters.
+ - Perform a case-insensitive comparison to verify equality and return the boolean result.
  * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
