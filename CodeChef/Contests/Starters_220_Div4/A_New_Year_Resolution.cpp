@@ -3,7 +3,7 @@
  * Contest: Starters 220
  * Platform: CodeChef
  * Rating: 19
- * Logic: Multiply number of push ups/day with days in January(31).
+ * Logic: Calculate the total by multiplying the daily count by the number of days in January (31).
  * Time Complexity: O(1)
  * Space Complexity: O(1)
  */
