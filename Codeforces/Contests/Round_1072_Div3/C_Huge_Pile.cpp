@@ -1,5 +1,5 @@
 /*
- * Problem: C. Huge Pile
+ * Problem: C - Huge Pile
  * Contest: Codeforces Round 1072 (Div. 3)
  * Platform: Codeforces
  * Rating: N/A
