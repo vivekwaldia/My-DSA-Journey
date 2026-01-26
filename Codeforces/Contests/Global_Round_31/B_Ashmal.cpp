@@ -1,5 +1,5 @@
 /*
- * Problem: B. Ashmal
+ * Problem: B - Ashmal
  * Contest: Codeforces Global Round 31 (Div. 1 + Div. 2)
  * Platform: Codeforces
  * Rating: 800
