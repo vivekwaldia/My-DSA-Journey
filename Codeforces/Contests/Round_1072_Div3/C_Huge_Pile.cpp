@@ -4,7 +4,8 @@
  * Platform: Codeforces
  * Rating: N/A
  * Tags: Binary Search, Depth-First Search/Similar, Dynamic Programming, Graphs, Math
- * Logic: Recursively check for the minimum time required using memoization. Split the problem into two halves on the basis of odd/even nature of n.
+ * Logic: Recursively determine the minimum time utilizing memoization.
+ - Branch the recursion based on the parity of N to determine the optimal transition.
  * Time Complexity: O(log N)
  * Space Complexity: O(log N)
  */
