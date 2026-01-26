@@ -1,5 +1,5 @@
 /*
- * Problem: A. Social Experiment
+ * Problem: A - Social Experiment
  * Contest: Codeforces Round 1072 (Div. 3)
  * Platform: Codeforces
  * Rating: N/A
