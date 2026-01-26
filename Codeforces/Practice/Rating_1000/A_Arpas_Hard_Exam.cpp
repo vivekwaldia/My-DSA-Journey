@@ -4,7 +4,7 @@
  * Platform: Codeforces
  * Rating: 1000
  * Tags: Implementation, Math, Number Theory
- * Logic: Use binary exponentiation with modulo 10 to get the last digit.
+ * Logic: Compute the last digit efficiently using binary exponentiation with modulo 10.
  * Time Complexity: O(log N)
  * Space Complexity: O(log N)
  */
