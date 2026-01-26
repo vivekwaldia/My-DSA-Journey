@@ -3,7 +3,7 @@
  * Contest: AtCoder Beginner Contest 438
  * Platform: AtCoder
  * Points: 100
- * Logic: Calculate remaining days and check for modular congruency with 7.
+ * Logic: Calculate the remaining days and check for modular congruency with 7.
  * Time Complexity: O(1)
  * Space Complexity: O(1)
  */
