@@ -4,7 +4,8 @@
  * Platform: Codeforces
  * Rating: 800
  * Tags: Brute Force, Number Theory
- * Logic: Calculate the current prize based on the landing index and update the maximum prize on the go.
+ * Logic: Calculate the prize associated with the landing index.
+ - Update the maximum prize value dynamically during the traversal.
  * Time Complexity: O(L); L = Number of sections in the prize wheel
  * Space Complexity: O(1)
  */
