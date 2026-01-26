@@ -3,7 +3,7 @@
  * Contest: Starters 218
  * Platform: CodeChef
  * Rating: 300
- * Logic: Subtract the total cost of sold trees with bought trees.
+ * Logic: Calculate the net profit by subtracting the cost of purchased trees from the revenue of sold trees.
  * Time Complexity: O(1)
  * Space Complexity: O(1)
  */
