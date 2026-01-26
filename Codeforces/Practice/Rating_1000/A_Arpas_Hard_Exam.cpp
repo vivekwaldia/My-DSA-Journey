@@ -1,5 +1,5 @@
 /*
- * Problem: A. Arpa's hard exam & Mehrdad's naive cheat
+ * Problem: A - Arpa's hard exam & Mehrdad's naive cheat
  * Contest: Codeforces Round 383 (Div. 2)
  * Platform: Codeforces
  * Rating: 1000
