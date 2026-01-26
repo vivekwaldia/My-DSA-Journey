@@ -10,7 +10,7 @@
 
 *1st Year CSE Student*
 
-[LeetCode](https://leetcode.com/vivekwaldia) • [Codeforces](https://codeforces.com/profile/vivekwaldia) • [CodeChef](https://www.codechef.com/users/vivekwaldia) • [AtCoder](https://atcoder.jp/users/vivekwaldia) • [GeeksforGeeks](https://www.geeksforgeeks.org/user/vivekwaldia)
+[LeetCode](https://leetcode.com/vivekwaldia) • [Codeforces](https://codeforces.com/profile/vivekwaldia) • [CodeChef](https://www.codechef.com/users/vivekwaldia) • [AtCoder](https://atcoder.jp/users/vivekwaldia)
 
 </div>
 
@@ -18,38 +18,34 @@
 
 ## 📁 Repository Structure
 
-Solutions are organized by **Platform** - **Contest/Category** - **Problem**
+Solutions are organized by **Platform**, with sub-organization varying by platform:
 
 ```
 My-DSA-Journey/
 ├── AtCoder/
 │   └── Contests/
-│       └── [Contest Name]/
-│           └── Problem_Name.cpp
+│       └── Beginner_Contest_XXX/
+│           └── A_Problem_Name.cpp
 ├── CSES/
-│   └── [Topic Category]/
+│   └── [Topic]/
 │       └── Problem_Name.cpp
 ├── CodeChef/
 │   └── Contests/
-│       └── [Contest Code]/
-│           └── Problem_Name.cpp
+│       └── Starters_XXX_DivX/
+│           └── A_Problem_Name.cpp
 ├── Codeforces/
 │   ├── Contests/
-│   │   └── Round_XXX/
-│   │       └── Problem_A.cpp
+│   │   └── Round_XXX_DivX/
+│   │       └── A_Problem_Name.cpp
 │   └── Practice/
-│       └── [Difficulty]/
+│       └── Rating_XXXX/
 │           └── Problem_Name.cpp
 ├── GeeksForGeeks/
-│   └── [Topic Category]/
+│   └── [Topic]/
 │       └── Problem_Name.cpp
 └── LeetCode/
-    ├── Daily_Challenge/
-    │   └── Month_Year/
-    │       └── Problem_Name.cpp
-    └── Problems/
-        └── [Difficulty]/
-            └── Problem_Name.cpp
+    └── [Topic]/
+        └── XXX_Problem_Name.cpp
 ```
 
 ### 📝 File Naming Convention
@@ -149,6 +145,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ---
 
 <div align="center">
+
+**Star ⭐ this repo if you'd like to follow along!**
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=vivekwaldia.My-DSA-Journey)
 
