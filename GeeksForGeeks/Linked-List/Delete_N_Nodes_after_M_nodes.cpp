@@ -6,7 +6,7 @@
  - Use a loop to move the `current` pointer **M-1** times to reach the last node of the segment to keep.
  - From that node, use a temporary pointer to skip the next **N** nodes.
  - Link the `current->next` to the node following the deleted segment and move `current` to that position to repeat the process.
- * Time Complexity: O(n)
+ * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
 
