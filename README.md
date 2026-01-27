@@ -6,7 +6,7 @@
 
 *1st Year CSE Student*
 
-[LeetCode](https://leetcode.com) • [Codeforces](https://codeforces.com) • [CodeChef](https://codechef.com) • [AtCoder](https://atcoder.jp)
+[LeetCode](https://leetcode.com/u/vivekwaldia/) • [Codeforces](https://codeforces.com/profile/vivekwaldia) • [CodeChef](https://www.codechef.com/users/vivekwaldia) • [AtCoder](https://atcoder.jp/users/vivekwaldia)
 
 </div>
 
@@ -18,29 +18,32 @@ This repository chronicles my progression through various platforms. Solutions a
 ```
 My-DSA-Journey/
 ├── AtCoder/
-│   └── Contests/
-│       └── Beginner_Contest_XXX/
-│           └── A_Problem_Name.cpp
+│   └── Contests/
+│       └── Beginner_Contest_XXX/
+│           └── A_Problem_Name.cpp
 ├── CSES/
-│   └── [Topic]/
-│       └── Problem_Name.cpp
+│   └── [Topic]/
+│       └── Problem_Name.cpp
 ├── CodeChef/
-│   └── Contests/
-│       └── Starters_XXX_DivX/
-│           └── A_Problem_Name.cpp
+│   └── Contests/
+│       └── Starters_XXX_DivX/
+│           └── A_Problem_Name.cpp
 ├── Codeforces/
-│   ├── Contests/
-│   │   └── Round_XXX_DivX/
-│   │       └── A_Problem_Name.cpp
-│   └── Practice/
-│       └── Rating_XXXX/
-│           └── Problem_Name.cpp
+│   ├── Contests/
+│   │   └── Round_XXX_DivX/
+│   │       └── A_Problem_Name.cpp
+│   └── Practice/
+│       └── Rating_XXXX/
+│           └── Problem_Name.cpp
 ├── GeeksForGeeks/
-│   └── [Topic]/
-│       └── Problem_Name.cpp
+│   └── [Topic]/
+│       └── Problem_Name.cpp
 └── LeetCode/
-    └── [Topic]/
-        └── XXX_Problem_Name.cpp
+    ├── !Contests/
+    │   └── Weekly_Contest_XXX/
+    │       └── Problem_Name.cpp
+    └── [Topic]/
+        └── XXX_Problem_Name.cpp
 ```
 
 ## 📝 File Naming Convention
