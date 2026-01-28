@@ -1,6 +1,5 @@
 /*
  * Template for Competitive Programming
- * Covers: Codeforces, AtCoder, CodeChef, CSES
  * Features: 
  * - fast I/O
  * - implicit long long (prevents overflow)
@@ -23,7 +22,7 @@ signed main() {
     cin.tie(0); cout.tie(0);
 
     int t = 1;
-    // cin >> t; // Uncomment for multi-test cases (Codeforces/CodeChef)
+    // cin >> t; // Uncomment for multi-test cases
     while(t--) {
         solve();
     }
