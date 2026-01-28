@@ -17,6 +17,9 @@
 This repository chronicles my progression through various platforms. Solutions are organized by platform, with sub-organization varying by each:
 ```
 My-DSA-Journey/
+├── !Templates/
+│   ├── CP_Template.cpp
+│   └── LeetCode_Template.cpp
 ├── AtCoder/
 │   └── Contests/
 │       └── Beginner_Contest_XXX/
