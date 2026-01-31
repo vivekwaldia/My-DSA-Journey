@@ -3,7 +3,9 @@
  * Contest: AtCoder Beginner Contest 443
  * Platform: AtCoder
  * Points: 200
- * Logic: Simulate the process of eating beans year by year. Start with current age N, and in each subsequent year, increment age and add to the total until the sum reaches K.
+ * Logic: Simulate the bean-eating process year by year.
+ - Start with the current age N and total beans eaten so far.
+ - In each iteration, increment the age, add the new age to the running total, and increment the year counter until the total reaches K.
  * Time Complexity: O(sqrt(K))
  * Space Complexity: O(1)
  */
