@@ -1,5 +1,6 @@
 /*
  * Problem: 3819. Rotate Non-Negative Elements
+ * Contest: Weekly Contest 486
  * Platform: LeetCode
  * Difficulty: Medium
  * Logic: Extract all non-negative numbers into a separate list while preserving their order.
