@@ -1,5 +1,6 @@
 /*
  * Problem: 3803. Count Residue Prefixes
+ * Contest: Weekly Contest 484
  * Platform: LeetCode
  * Difficulty: Easy
  * Logic: Iterate through the string to examine every prefix.
