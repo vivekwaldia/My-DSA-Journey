@@ -1,5 +1,6 @@
 /*
  * Problem: 3828. Final Element After Subarray Deletions
+ * Contest: Weekly Contest 487
  * Platform: LeetCode
  * Difficulty: Medium
  * Logic: Alice makes the first move and can remove a subarray of length `n-1` (since n-1 < n).
@@ -9,6 +10,9 @@
  * Time Complexity: O(1)
  * Space Complexity: O(1)
  */
+
+#include <iostream>
+using namespace std;
 
 class Solution {
 public:
