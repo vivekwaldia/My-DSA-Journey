@@ -1,5 +1,6 @@
 /*
  * Problem: 3827. Count Monobit Integers
+ * Contest: Weekly Contest 487
  * Platform: LeetCode
  * Difficulty: Easy
  * Logic: Iterate through numbers from 0 to n.
@@ -8,6 +9,9 @@
  * Time Complexity: O(N)
  * Space Complexity: O(1)
  */
+
+#include <iostream>
+using namespace std;
 
 class Solution {
 public:
