@@ -1,5 +1,6 @@
 /*
  * Problem: 3829. Design Ride Sharing System
+ * Contest: Weekly Contest 487
  * Platform: LeetCode
  * Difficulty: Medium
  * Logic: Manage riders and drivers using queues to ensure First-Come-First-Serve (FCFS) matching.
@@ -16,6 +17,10 @@
  * - matchDriverWithRider: Amortized O(1) (each rider is pushed and popped at most once).
  * Space Complexity: O(N + M) where N is riders and M is drivers.
  */
+
+#include <iostream>
+#include <queue>
+using namespace std;
 
 class RideSharingSystem {
 private:
@@ -38,7 +43,6 @@ public:
     }
     
     vector<int> matchDriverWithRider() {
-        // Lazy deletion: skip riders who have been canceled
         while(!riders.empty() && isMatched[riders.front()]){
             riders.pop();
         }
