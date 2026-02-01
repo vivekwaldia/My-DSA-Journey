@@ -1,5 +1,6 @@
 /*
  * Problem: 3810. Minimum Operations to Reach Target Array
+ * Contest: Biweekly Contest 174
  * Platform: LeetCode
  * Difficulty: Medium
  * Logic: Iterate through the arrays to identify indices where the current value differs from the target value.
