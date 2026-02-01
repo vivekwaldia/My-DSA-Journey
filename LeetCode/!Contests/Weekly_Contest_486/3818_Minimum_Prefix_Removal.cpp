@@ -1,5 +1,6 @@
 /*
  * Problem: 3818. Minimum Prefix Removal to Make Array Strictly Increasing
+ * Contest: Weekly Contest 486
  * Platform: LeetCode
  * Difficulty: Medium
  * Logic: Iterate backwards from the end of the array to identify the longest suffix that is strictly increasing.
