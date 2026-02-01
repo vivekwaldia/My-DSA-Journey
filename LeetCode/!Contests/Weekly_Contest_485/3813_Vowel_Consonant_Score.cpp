@@ -1,5 +1,6 @@
 /*
  * Problem: 3813. Vowel-Consonant Score
+ * Contest: Weekly Contest 485
  * Platform: LeetCode
  * Difficulty: Easy
  * Logic: Iterate through the string to count the occurrences of vowels and consonants.
