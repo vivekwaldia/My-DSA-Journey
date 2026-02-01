@@ -1,5 +1,6 @@
 /*
  * Problem: 3804. Number of Centered Subarrays
+ * Contest: Weekly Contest 484
  * Platform: LeetCode
  * Difficulty: Medium
  * Logic: Iterate through all possible subarrays using nested loops for start and end indices.
