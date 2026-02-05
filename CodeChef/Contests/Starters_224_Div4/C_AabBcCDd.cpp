@@ -1,5 +1,5 @@
 /*
- * Problem: AabBcCDd
+ * Problem: AABBCCDD - AabBcCDd
  * Contest: Starters 224
  * Platform: CodeChef
  * Rating: 972
